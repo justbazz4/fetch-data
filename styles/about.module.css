@@ -1,0 +1,13 @@
+.heading{
+    color: white;
+    background-color: aqua;
+    padding: 1rem 2rem;
+    text-align: center;
+    border: 2px solid blueviolet;
+    border-radius: 6px;
+    
+}
+.heading:hover{
+    color: aquamarine;
+    background-color: blue;
+}

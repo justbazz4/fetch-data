@@ -1,0 +1,9 @@
+.singler{
+    background-color: aqua;
+    color: black;
+}
+.singler :hover {
+    background-color: red;
+    color: blue;
+   cursor: pointer;
+}
